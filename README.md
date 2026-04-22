@@ -14,7 +14,8 @@ LinkedIn - https://in.linkedin.com/in/dakshfofindi
 
 ---
 
-Note: Change com port accrding to your hardware.
+Note: Change com port according to your hardware.
+
 ---
 
 # S.P.H.E.R.E. Rocket Ground Station
