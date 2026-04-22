@@ -64,6 +64,7 @@ Temp,Pressure,Altitude,
 AccX,AccY,AccZ,
 GyroX,GyroY,GyroZ,
 RSSI,SNR,FreqError
+```
 
 ---
 
@@ -72,13 +73,14 @@ RSSI,SNR,FreqError
 - Install python packages
 ```csv
 pip install pyqt6 pyqtgraph pyserial
-
+```
 - Run using command
 ```csv
 python <name-of-your-file>.py
-
--if you want to run through command prompt in windows just navigate to your folder in command prompt and write above command.
+```
+- If you want to run through command prompt in windows just navigate to your folder in command prompt and write above command.
 ```csv
 pyhton <name-of-your-file>.py
-
-Thank you!
+```
+---
+Thank you! And do check out our social media handles. 
